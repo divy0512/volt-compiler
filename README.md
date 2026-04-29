@@ -1,4 +1,4 @@
-# ⚡ Volt Compiler
+# ⚡ Secure Comp
 
 A full 6-phase compiler built in Python for **Volt** — a custom statically-typed programming language. Features a web-based frontend and a FastAPI backend.
 
